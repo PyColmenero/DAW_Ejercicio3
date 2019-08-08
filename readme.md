@@ -2,6 +2,7 @@ Repositorio para DAW, Tema 6, Ejercicio 3
 
 Desde GitHub:
   Copiar un proyecto de GitHub a GitHub con Fork --> Escribo la URL en  navegador y doy a FORK. Elegir mi repo al que copiar
+  
 Desde local:  
   Clonar un repositorio (antes, en github, haber hecho fork)
   
